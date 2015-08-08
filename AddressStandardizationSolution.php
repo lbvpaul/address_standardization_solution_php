@@ -28,7 +28,7 @@
  * @license http://www.analysisandsolutions.com/software/license.htm Simple Public License
  * @link http://www.analysisandsolutions.com/software/addr/addr.htm
  */
-namespace Convissor/address;
+namespace Convissor\address;
 class AddressStandardizationSolution {
 
 	/**
